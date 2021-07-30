@@ -1,2 +1,5 @@
-# React-Digital-Clock
-I have made a ditital clock using ReactJS
+# digital-clock
+Simple digital clock
+
+
+<img src="img/canClock.jpg" width="400">
